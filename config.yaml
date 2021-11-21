@@ -1,5 +1,5 @@
 # your domain
-domain: catchproxy.herokuapp.com
+domain: catproxy.herokuapp.com
 
 # database url
 database_url: ""
