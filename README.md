@@ -15,7 +15,7 @@
 
 - clash订阅链接：`https://rdp-proxypool.herokuapp.com/clash/config`
 
-- surge订阅链接：`https://rdp-proxypool.herokuapp.com/clash/config`
+- surge订阅链接：`https://catchproxy.herokuapp.com/clash/config`
 
 ### 📧 更新推送
 
