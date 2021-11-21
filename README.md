@@ -13,7 +13,7 @@
 
 ### 🚀 每15分钟自动更新一次
 
-- clash订阅链接：`https://rdp-proxypool.herokuapp.com/clash/config`
+- clash订阅链接：`https://catchproxy.herokuapp.com/clash/config`
 
 - surge订阅链接：`https://catchproxy.herokuapp.com/clash/config`
 
