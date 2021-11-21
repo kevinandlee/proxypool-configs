@@ -1,5 +1,5 @@
 # your domain
-domain: catproxy.herokuapp.com
+domain: catproxypool.herokuapp.com
 
 # database url
 database_url: ""
