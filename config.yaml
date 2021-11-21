@@ -1,5 +1,5 @@
 # your domain
-domain: rdp-proxypool.herokuapp.com
+domain: catchproxypool.herokuapp.com
 
 # database url
 database_url: ""
